@@ -1,0 +1,48 @@
+body {
+  background-color: #3291B6;
+  font-family: "Hedvig Letters Serif", serif;
+}
+
+.sign-up {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  width: 30%;
+
+}
+
+input {
+  margin: 10px;
+  padding: 13px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+
+.register-btn {
+  padding: 1rem;
+  width: 350px;
+  background-color: #3291B6;
+  color: white;
+  border-radius: 5px;
+  justify-content: center;
+  margin: auto;
+  margin-top: 1rem;
+
+}
+
+.text-1 {
+  text-align: center;
+}
+
+.media-1 {
+  display: flex;
+  justify-content: center;
+  padding: 6rem;
+}
+
+input:focus {
+  outline: 2px solid #3291B6;
+
+}
