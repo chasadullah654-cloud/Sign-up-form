@@ -1,0 +1,64 @@
+body {
+  background-color:#D6F4ED;
+  font-family: "Hedvig Letters Serif", serif;
+}
+
+
+.text-1 h1{
+  text-align: center;
+  color: #53629E;
+  font-weight: 400;
+  font-size: 25px;
+
+}
+.text-1 img{
+  height: 100px;
+}
+
+.login-up {
+  background-color: #9CC6DB;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  width: 30%;
+
+}
+
+input {
+  margin: 10px;
+  padding: 13px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+
+.register-btn {
+  padding: 1rem;
+  width: 350px;
+  background-color: #FF8040;
+  color: white;
+  border-radius: 5px;
+  justify-content: center;
+  margin: auto;
+  margin-top: 1rem;
+
+}
+
+.text-1 {
+  text-align: center;
+}
+
+.media-1 {
+  display: flex;
+  justify-content: center;
+  padding: 6rem;
+}
+
+input:focus {
+  outline: 2px solid #3291B6;
+
+}
+
+.pictuer-2 img{
+  height: 20px;
+}
